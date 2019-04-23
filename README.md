@@ -1,4 +1,4 @@
-# stduy_week_1
+# stduy_week_2
 
 ## 발표내용 : JAVA 인터페이스
 ## 발표자 : 정재엽
